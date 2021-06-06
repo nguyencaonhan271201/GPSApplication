@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:GPSAppClient"
+             x:Class="GPSAppClient.StartPage">
+
+    
+    <Grid>
+        
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <AbsoluteLayout Grid.RowSpan="3" Opacity="0.8">
+            <Image Aspect="Fill" Source="background1.jpg" />
+        </AbsoluteLayout>
+
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Text="GPS APPLICATION" FontAttributes="Bold" FontSize="30" FontFamily="Segoe UI" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="0"></Label>
+            <Image Source="icon.png" HorizontalOptions="Center" VerticalOptions="Start" Scale="0.4" Grid.Row="1"></Image>
+        </Grid>
+
+        <StackLayout Grid.Row="1">
+            <Label x:Name="lblGPSCheck" Text="Đang kiểm tra kết nối" TextColor="White" VerticalOptions="End" HorizontalOptions="Center"></Label>
+            <Label x:Name="lblNetworkCheck" Text="Đang kiểm tra kết nối" TextColor="White" VerticalOptions="End" HorizontalOptions="Center"></Label>
+        </StackLayout>
+        <Button x:Name="btnSwitch" IsVisible="False" Grid.Row="2"></Button>
+    </Grid>
+    
+    
+    
+</ContentPage>

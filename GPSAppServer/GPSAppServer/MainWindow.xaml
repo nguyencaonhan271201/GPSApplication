@@ -1,0 +1,41 @@
+﻿<Window x:Class="GPSAppServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"        
+        xmlns:local="clr-namespace:GPSAppServer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="Auto" Width="Auto" WindowStyle="None" WindowState="Maximized" ResizeMode="CanResizeWithGrip" Closing="Window_Closing">
+    <Grid Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="MapGrid" Width="3*"></ColumnDefinition>
+            <ColumnDefinition x:Name="ClientListGrid" Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <m:Map x:Name="MyMap" CredentialsProvider="AgW8SdR6t8nw_5Wo3ZCNFlRrUHzw-YF6MxeAzecIiRAaQ454o1x_PsNpLuM3f0ll" Mode="Road">
+            </m:Map>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition x:Name="DesignRow" Height="*"></RowDefinition>
+                <RowDefinition x:Name="MainRow" Height="4*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0">
+                <StackPanel.Background>
+                    <ImageBrush ImageSource="/Resources/background1.jpg" Opacity="0.75"></ImageBrush>
+                </StackPanel.Background>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" Orientation="Vertical">
+                <Label HorizontalAlignment="Center" VerticalAlignment="Center" Content="GPS APPLICATION SERVER" FontFamily="Segoe UI" FontSize="25" FontWeight="Bold" Foreground="White"></Label>
+                <StackPanel Height="40">
+                    <StackPanel.Background>
+                        <ImageBrush ImageSource="map.ico" Stretch="Uniform"/>
+                    </StackPanel.Background>
+                </StackPanel>
+            </StackPanel>
+            <DataGrid x:Name="MainBoard" Grid.Row="1" HorizontalAlignment="Stretch"  HorizontalContentAlignment="Stretch" ColumnWidth="*">
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Window>

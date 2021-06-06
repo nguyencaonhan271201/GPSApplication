@@ -1,0 +1,96 @@
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\GPSAppClient.Android.dll
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\GPSAppClient.Android.pdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\com.companyname.GPSAppClient.apk
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\com.companyname.GPSAppClient-Signed.apk
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\GPSAppClient.Android.csprojResolveAssemblyReference.cache
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\GPSAppClient.Android.csproj.CoreCompileInputs.cache
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\GPSAppClient.Droid.App.xaml.g.cs
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\GPSAppClient.Droid.MainPage.xaml.g.cs
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\GPSAppClient.Android.dll
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\GPSAppClient.Android.pdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\android\bin\com.companyname.GPSAppClient.apk
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable\icon.png
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\layout\tabbar.xml
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\layout\toolbar.xml
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\values\styles.xml
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\R.cs.flag
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\uploadflags.txt
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\GPSAppClient.Android.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\android\assets\GPSAppClient.Android.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\GPSAppClient.Droid.StartPage.xaml.g.cs
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\GPSAppClient.Droid.LoginPage.xaml.g.cs
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable\background1.jpg
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable-hdpi\background1.jpg
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable-xhdpi\background1.jpg
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable-xxhdpi\background1.jpg
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable\background2.jpg
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable-hdpi\background2.jpg
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable-xhdpi\background2.jpg
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\obj\Debug\res\drawable-xxhdpi\background2.jpg
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\Plugin.Connectivity.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\Plugin.Permissions.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\BT Tin 11\C#\Project HKII\GPSAppClient\GPSAppClient\GPSAppClient.Android\bin\Debug\GPSAppClient.Android.dll
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Plugin.Connectivity.dll.mdb
+bin\Debug\Plugin.Geolocator.dll.mdb
+bin\Debug\Plugin.Permissions.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\Plugin.Connectivity.Abstractions.pdb
+bin\Debug\Plugin.Geolocator.Abstractions.pdb
+bin\Debug\Plugin.Permissions.Abstractions.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Microsoft.CSharp.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\GPSAppClient.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Plugin.Connectivity.dll.mdb
+obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\Plugin.Connectivity.Abstractions.pdb
+obj\Debug\linksrc\Plugin.Geolocator.Abstractions.pdb
+obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

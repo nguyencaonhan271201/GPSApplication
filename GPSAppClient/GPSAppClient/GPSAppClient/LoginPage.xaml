@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:GPSAppClient"
+             x:Class="GPSAppClient.LoginPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <AbsoluteLayout Grid.RowSpan="2">
+            <Image Aspect="Fill" Source="background1.jpg" Opacity="0.8" />
+        </AbsoluteLayout>
+        
+        <Label Text="GIAO DIỆN ĐĂNG NHẬP" FontAttributes="Bold" FontSize="28" FontFamily="Segoe UI" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="0"></Label>
+
+        <StackLayout Grid.Row="1" Orientation="Vertical" VerticalOptions="Center" Margin="0,0,0,100">
+            <StackLayout Orientation="Vertical" VerticalOptions="Center">
+                <Entry x:Name="Username" HorizontalOptions="Fill" Placeholder="Tên đăng nhập" HorizontalTextAlignment="Center" TextColor="White" PlaceholderColor="Gray" IsEnabled="False"></Entry>
+            </StackLayout>
+            <Button x:Name="LogIn" Text="ĐĂNG NHẬP"></Button>
+        </StackLayout>
+
+
+
+    </Grid>
+</ContentPage>
